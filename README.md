@@ -1,2 +1,2 @@
 # hello-world
-tutorial repository
+hi! im hyun woong
